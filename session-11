@@ -162,4 +162,4 @@ failure is in red color
 33m --> yellow
 
 "\e[31m"  --> here -e indicates that we are enabling the color codes 
-example: echo -e "\e[32m Hello World"s
+example: echo -e "\e[32m Hello World"s 
